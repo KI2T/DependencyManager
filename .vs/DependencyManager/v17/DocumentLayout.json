@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0060MyProjects\\Useful software\\DependencyManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C9D6A7-6500-4774-9B70-DCAD1C22BDF7}|DependencyManager.csproj|e:\\\u0060myprojects\\useful software\\dependencymanager\\models\\dependencyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C9D6A7-6500-4774-9B70-DCAD1C22BDF7}|DependencyManager.csproj|solutionrelative:models\\dependencyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C9D6A7-6500-4774-9B70-DCAD1C22BDF7}|DependencyManager.csproj|e:\\\u0060myprojects\\useful software\\dependencymanager\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C9D6A7-6500-4774-9B70-DCAD1C22BDF7}|DependencyManager.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyItem.cs",
+              "DocumentMoniker": "E:\\\u0060MyProjects\\Useful software\\DependencyManager\\Models\\DependencyItem.cs",
+              "RelativeDocumentMoniker": "Models\\DependencyItem.cs",
+              "ToolTip": "E:\\\u0060MyProjects\\Useful software\\DependencyManager\\Models\\DependencyItem.cs",
+              "RelativeToolTip": "Models\\DependencyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:48:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\\u0060MyProjects\\Useful software\\DependencyManager\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "E:\\\u0060MyProjects\\Useful software\\DependencyManager\\UI\\MainForm.cs",
+              "RelativeToolTip": "UI\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:47:58.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
